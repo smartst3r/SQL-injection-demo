@@ -1,4 +1,4 @@
-# SQL-injection-demo | Incomplete comments | Unpolished
+# SQL-injection-demo 
 
 This is a demo I made to showcase SQL injections. It was made using HTML, CSS, JavaScript, PHP, and MySQL.
 
